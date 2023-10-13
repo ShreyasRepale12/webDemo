@@ -1,0 +1,21 @@
+.work-head h2 {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.work-head p {
+    font-size: 22px;
+    padding: 20px;
+}
+
+.work-head ul {
+    font-size: 22px;
+    padding: 20px;
+}
+
+.work-foot {
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+    background-color: rgb(172, 172, 211);
+}
